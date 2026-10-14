@@ -1,0 +1,32 @@
+Simple Accountant is your personal money book: record debts (what others owe you and what you owe them), track income and expenses, and get accurate accounting reports — fully offline, with your data stored only on your device.
+
+📒 Debt book
+• People with opening balance and phone number.
+• "For him / On him" entries with an instant net balance per person.
+• Transfer an amount between two accounts in one step.
+• Fast search and filters: owes, owed, settled.
+• Remind people via WhatsApp or SMS using your own message template.
+• Add a debt entry by voice.
+
+💰 Income & expenses
+• Categorised income and expenses (housing, food, transport, health…).
+• Monthly summary and easy month navigation.
+• Monthly spending limit with alerts.
+
+📊 Real accounting reports
+• Every transaction is a balanced double-entry journal entry.
+• Financial position, income statement and trial balance.
+• Per-person account statement exported to PDF or Excel and shared in one tap.
+
+💱 Multiple currencies with exchange rates.
+
+🔒 Privacy & security
+• Works completely offline; no personal data is collected.
+• PIN app lock.
+• Backup and restore at any time.
+
+🎨 Comfortable design
+• Arabic and English, light and dark mode, accent colour and font size options.
+• Phones and tablets.
+
+Download Simple Accountant and take control of your money today!
